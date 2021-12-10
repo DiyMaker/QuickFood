@@ -26,6 +26,8 @@ En este software se an instalado distintas aplicaciones
 ## INICIO
 ![](/capturas/pagina%20web%20parte1.png)
 ![](/capturas/pagina%20web%20parte2.png)
+## RECETARIO
+![](/capturas/Recetario.png)
 ## REGISTRO
 ![](/capturas/registro.png)
 ## STAFF
